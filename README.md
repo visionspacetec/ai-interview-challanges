@@ -13,7 +13,7 @@ A sample of the Janus space mission data can be found in the file SatelliteDataS
 - sunmars_km: the distance in kilometers between the Sun and Mars.
 - earthmars_km: the distance in kilometers between the Earth and Mars.
 - sunmarsearthangle_deg: Sun-Mars-Earth angle in degrees.
-- solarconstantmars: solar constant at Mars in W/m2W/m2.
+- solarconstantmars: solar constant at Mars in W/m^2.
 - eclipseduration_min: total duration of all eclipses in the day, in minutes.
 - occultationduration_min: total duration of all occultations in the day, in minutes.
 - flagcomms: TRUE if any communication device was used, else FALSE.
